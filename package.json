@@ -1,0 +1,24 @@
+{
+  "name": "mongo-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suchir-agrawal/node-mongo-example.git"
+  },
+  "author": "Suchir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suchir-agrawal/node-mongo-example/issues"
+  },
+  "homepage": "https://github.com/suchir-agrawal/node-mongo-example#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "mongodb": "^3.6.4"
+  }
+}
